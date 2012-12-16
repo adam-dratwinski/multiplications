@@ -1,4 +1,4 @@
-require "#{Dir.pwd}/prime_number.rb"
+require_relative "../app/prime_number.rb"
 
 describe PrimeNumber do
   describe ".prime?" do

@@ -1,4 +1,4 @@
-require "#{Dir.pwd}/multiplication_table.rb"
+require_relative "../app/multiplication_table.rb"
 
 describe MultiplicationTable do
   let(:rows) { [1,2,3] }

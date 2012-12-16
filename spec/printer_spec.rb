@@ -1,4 +1,4 @@
-require "#{Dir.pwd}/printer.rb"
+require_relative "../app/printer.rb"
 
 describe Printer do
   subject { Printer.new([[1, "bb", "ccc"], ["bb", "a", "ccc"]])}
