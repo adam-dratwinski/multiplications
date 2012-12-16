@@ -1,7 +1,7 @@
 multiplications
 ===============
 
-[![Build Status](https://travis-ci.org/Feldspar/feldspar-compiler.png)](https://travis-ci.org/Feldspar/feldspar-compiler)
+[![Build Status](https://api.travis-ci.org/adwinsky/multiplications.png)](https://travis-ci.org/adwinsky/multiplications)
 
 ## To run
 
